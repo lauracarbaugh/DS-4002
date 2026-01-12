@@ -19,7 +19,7 @@ The 5 assignment categories:
 2. Critiques - These assignments are about providing critique to others and to yourself.
 3. Documentation - These assignments serve two purposes. The first is to practice communicating the technical details of your work by documenting your code. The second is to highlight the contributions you made to each project cycle.
 4. Case Studies - These assignments are about reproducing, reviewing and producing projects.
-5. Attendance - Every day the class meets during the projects attendance will be taken. In order to meet the requirement for the A bundle no more than one absense per project cycle is allowed. There is no requirement for students to report minor illness or other circumstances, these absenses are pre approved. For major extenuating circumstances please discuss the details with the instructor.
+5. Attendance - Every day the class meets during the projects attendance will be taken. In order to meet the requirement for the A bundle no more than one absense per project cycle is allowed. Absenses for minor illness or other circumstances are pre-approved. For major extenuating circumstances please discuss the details with the instructor.
 
 ## Bundles
 The following table summarizes the assignments required to "meet spec" to earn certain letter grades.
